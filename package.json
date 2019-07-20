@@ -1,0 +1,22 @@
+{
+  "name": "t-dex",
+  "version": "1.0.0",
+  "description": "DEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corollari/t-dex.git"
+  },
+  "author": "corollari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corollari/t-dex/issues"
+  },
+  "homepage": "https://github.com/corollari/t-dex#readme",
+  "dependencies": {
+    "eth-proof": "^2.1.3"
+  }
+}

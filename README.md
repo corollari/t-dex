@@ -21,6 +21,11 @@ t-dex is both trustless AND cheap (the costs associated with it are the same one
 ## HOW? Gimme the juicy details
 It uses SPV transaction proofs and XClaim, research developed by a London university.
 
+Some things to look into for future improvements:
+- [FLYCLIENT](https://scalingbitcoin.org/stanford2017/Day1/flyclientscalingbitcoin.pptx.pdf)
+- Compact SPV proofs
+- [NIPOPOWS](https://nipopows.com/)
+
 ## Where?
 The initial prototype is being built in the DoraHacks hackathon in Beijing, China.
 
